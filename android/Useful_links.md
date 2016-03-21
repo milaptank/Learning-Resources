@@ -11,8 +11,8 @@
 - [Jackson JSON Processor](https://github.com/FasterXML/jackson) - High-performance JSON processor.
 
 ### Development tools 
-- [JSON viewer](http://json.parser.online.fr/) view JSON not response 
-- [JSON editor](http://www.jsoneditoronline.org/) Create and view JSON 
+- [JSON viewer tool](http://json.parser.online.fr/) view JSON not response 
+- [JSON editor tool](http://www.jsoneditoronline.org/) Create and view JSON 
 - [JSON Plugin](https://addons.mozilla.org/en-Us/firefox/addon/jsonview/) Plugin that help your response to view in Formated JSON
 - [Angry Tools](http://angrytools.com/) Tools like CSS,Gradient,Android Button,Code for Email,Android Pixel Calculator and many more
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)-Icon generators,Theme generator
